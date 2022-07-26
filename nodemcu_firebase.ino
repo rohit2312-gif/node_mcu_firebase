@@ -7,7 +7,7 @@
 // Set these to run example.
 #define FIREBASE_HOST "miles-711c9-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "WkBwMCKkr9YimzxmcqwbhjKHu8lLcLUXrHKsffk8"
-#define WIFI_SSID "Guria Beti" //provide ssid (wifi name)
+#define WIFI_SSID "Rohit" //provide ssid (wifi name)
 #define WIFI_PASSWORD "Neeta702" //wifi password
 void setup()
 { 
